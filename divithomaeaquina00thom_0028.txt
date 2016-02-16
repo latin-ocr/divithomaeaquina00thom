@@ -1,0 +1,56 @@
+16 LIBER 1. cAP. xm.
+
+vetur. Hoc autem habet Aristoteles pro impossibili, quod scilicet aliquando
+nullus motus sit; ergo primum non fuit contingens, quia ex falso contingenti
+non sequitur falsum impossibile. Et sic haec propositio: « omne movens ab
+alio movetur >›, non fuit per accidens vera.
+
+Item: si aliqua duo sunt conjuncta per accidens in aliquo, et unum il-
+lorum invenitur sine altero, probabile est quod alterum absque illo inveniri
+possit, sicut si album et musicum inveniuntur in Socrate, et in Platone in·-
+venitur musicum absque albo, probabile est quod in aliquo alio possit inveniri
+album absque musico. Si igitur movens et motum conjunguntur in aliquo per
+accidens, motum autem invenitur in aliquo absque eo quod moveat, proba-
+bile est quod movens inveniatur absque eo quod moveatur: nec contra hoc
+potest fieri instantia de duobus quorum unum ab altero dependet, quia haec
+non conjunguntur per se, sed per accidens.
+
+Si autem praedicta propositio est vera per se, similiter sequitur impossi-
+bile vel inconveniens, quia vel oportet quod movens moveatur eadem specie
+motus qua movet, vel alia. Si eadem, ergo oportebit quod alterans alteretur,
+et ulterius quod sanans sanetur, et quod docens doceatur, etiam secundum
+eamdem scientiam. Hoc autem est impossibile: nam docentem necesse est
+habere scientiam, addiscentem vero necesse est non habere, et sic idem
+habebitur ab eodem et non habebitur, quod est impossibile. ’
+
+Si autem secundum aliam speciem motus moveatur, ita scilicet quod
+alterans moveatur secundum locum, et movens secundum locum augeatur,
+et sic de aliis est, cum sint finita genera et species motus, sequetur quod
+non sit abire in infinitum. Et sic erit aliquod primurn movens quod vnon
+movetur ab alio; nisi forte aliquis dicat, quod fiat reflexio hoc modo quod
+completis omnibus generibus et speciebus motus iterum oporteat redire ad
+primum: ut si movens secundum locum alteretur, et alterans augeatur, ite-
+rum augens moveatur secundum locum. Sed ex hoc sequitur idern quod
+prius, scilicet quodid quod movet secundum aliquam speciem motus, secun-
+dum eamdem moveatur, licet non immediate, sed mediate3 ergo relinquitur
+quod oportet ponere aliquod primum quod non moveatur ab aliquo exte-
+riori. Quia vero hoc habito, quod scilicet sit primurn movens quod non
+movetur ab alio exteriori, non sequitur quod sit penitus immobile, ideo ul-
+terius procedit Aristoteles dicendo quod hoc potest esse dupliciter: uno modo
+ita, quod illud primurn sit penitus immobile; quo posito habetur propositum,
+scilicet quod sit aliquod primum movens immobile: alio modo, quod illud
+primum moveatur a seipso; et hoc videtur probabile, quia quod est per se,
+semper est prius eo quod est per aliud. Unde etiam in motis primum motum
+rationabile est per seipsum moveri, non ab alio. Sed hoc dato, iterum idem
+sequetur3 non enirn potest dici quod movens seipsum, totum moveatur a
+toto, quia sic sequerentur praedicta inconvenientia, scilicet quod aliquis simul
+doceret et doceretur, et similiter in aliis motibus, et iterum quod aliquid
+simul esset in potentia et actu; nam movens, in quantum hujusmodi, est
+actu; motum vero in potentia. Relinquitur igitur, quod una pars ejus est
+movens tantum, et altera mota3 et sic habetur idem quod prius, quod ali·
+quid sit movens immobile: ipsum enim habere partem necessarium est, cum
+omne movens sit divisibile. Non autem potest dici quod utraque pars mo-
+veatur, ita quod una ab altera, neque quod una pars moveat seipsam et mo-
+veat alteram, neque quod totum moveat partem, neque quod pars moveat
+totum, quia sequerentur praemissa inconvenientia, scilicet quod aliquid simul
+
